@@ -2,4 +2,10 @@ hello world hai
 
 tool box1 is added
 
+<<<<<<< HEAD
 xyz
+=======
+abc camera branch
+
+12345
+>>>>>>> camerabranch

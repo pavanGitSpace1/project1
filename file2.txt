@@ -2,3 +2,6 @@ text in file2
 
 
 added text for staging and checkout 
+
+
+file2 modified in camera branch 
