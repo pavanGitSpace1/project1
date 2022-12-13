@@ -5,3 +5,6 @@ added text for staging and checkout
 
 
 file2 modified in camera branch 
+
+
+adding data in remote repository
